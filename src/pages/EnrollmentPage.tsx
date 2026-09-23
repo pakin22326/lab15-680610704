@@ -72,7 +72,7 @@ export default function EnrollmentPage() {
       </div>
 
       <footer className="py-4 text-center text-xs text-muted-foreground border-t">
-        จัดทำโดย {currentStudent.firstName} {currentStudent.lastName} รหัสนักศึกษา {currentStudent.studentId}
+        จัดทำโดย Phakin Ounruen รหัสนักศึกษา 680610704
       </footer>
     </div>
   );
