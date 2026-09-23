@@ -20,6 +20,10 @@ export default function HomePage() {
         </CardContent>
       </Card>
 
+      <footer className="py-4 text-center text-xs text-muted-foreground border-t">
+        จัดทำโดย Phakin Ounruen รหัสนักศึกษา 680610704
+      </footer>
+
     </div>
   );
 }
